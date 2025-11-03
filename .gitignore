@@ -21,7 +21,7 @@
 /upmenu/compiled/
 /upmenu/upmenu.exe
 
-/bitlocker auto unlock/
+# /bitlocker auto unlock/
 /bitlocker auto unlock/output/
 
 # /camera manager/
