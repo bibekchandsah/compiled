@@ -12,10 +12,10 @@
 /feedback compile/feedback.exe
 /feedback compile/feedbacktask.exe
 
-/realtime voice translation/
+# /realtime voice translation/
 /realtime voice translation/output/
 /realtime voice translation/RealTimeVoiceTranslator_Full.exe
-/realtime voice translation/RealTimeVoiceTranslator_Optimized.exe
+# /realtime voice translation/RealTimeVoiceTranslator_Optimized.exe
 
 # /upmenu/
 /upmenu/upmenu.exe
