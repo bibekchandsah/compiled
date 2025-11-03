@@ -17,9 +17,9 @@
 /realtime voice translation/RealTimeVoiceTranslator_Full.exe
 /realtime voice translation/RealTimeVoiceTranslator_Optimized.exe
 
-/upmenu/
-/upmenu/compiled/
+# /upmenu/
 /upmenu/upmenu.exe
+/upmenu/compiled/
 
 # /bitlocker auto unlock/
 # /bitlocker auto unlock/output/
