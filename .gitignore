@@ -1,0 +1,28 @@
+# these files are above 100 MB
+/exam helper/
+/exam helper/Output/
+/exam helper/ExamHelper(full).exe
+/exam helper/ExamHelper(optimized).exe
+
+/feedback compile/
+/feedback compile/testing/
+/feedback compile/.git/
+/feedback compile/.github/
+/feedback compile/new compiled/
+/feedback compile/feedback.exe
+/feedback compile/feedbacktask.exe
+
+/realtime voice translation/
+/realtime voice translation/output/
+/realtime voice translation/RealTimeVoiceTranslator_Full.exe
+/realtime voice translation/RealTimeVoiceTranslator_Optimized.exe
+
+/upmenu/
+/upmenu/compiled/
+/upmenu/upmenu.exe
+
+/bitlocker auto unlock/
+/bitlocker auto unlock/output/
+
+/camera manager/
+/camera manager/output/
