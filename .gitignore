@@ -4,13 +4,13 @@
 /exam helper/ExamHelper(full).exe
 /exam helper/ExamHelper(optimized).exe
 
-/feedback compile/
-/feedback compile/testing/
+# /feedback compile/
+# /feedback compile/testing/
 /feedback compile/.git/
 /feedback compile/.github/
-/feedback compile/new compiled/
-/feedback compile/feedback.exe
-/feedback compile/feedbacktask.exe
+# /feedback compile/new compiled/
+# /feedback compile/feedback.exe
+# /feedback compile/feedbacktask.exe
 
 # /realtime voice translation/
 /realtime voice translation/output/
